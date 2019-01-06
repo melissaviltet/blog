@@ -16,7 +16,7 @@ use Symfony\Component\HttpFoundation\Response;
 class LuckyController extends AbstractController
 {
     /**
-     * @route("/lucky/number")
+     * @route("/lucky/number", name="number")
      */
     public function number()
     {
