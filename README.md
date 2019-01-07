@@ -1,4 +1,4 @@
-blog décuverte se symfony4.2.1
+blog découverte de symfony4.2.1
 
 Objectifs
 
