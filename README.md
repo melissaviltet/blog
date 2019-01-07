@@ -1,8 +1,8 @@
-Blog décuverte se symfony4.2.1
+Blog découverte de symfony4.2.1
 
  Objectifs
 
-        Créer un contrôleur
+    Créer un contrôleur
     Implémenter une route
     Appeler un template Twig
 
